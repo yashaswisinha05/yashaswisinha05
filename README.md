@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I am currently a PhD student at IISc. I am interested in 3d reconstruction using Tactile Sensor
+
 <!--
 **yashaswisinha05/yashaswisinha05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
